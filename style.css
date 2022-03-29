@@ -1,0 +1,24 @@
+.content {
+    background-color: white;
+    width: 350px;
+    height: 150px;
+    margin: auto;
+}
+button {
+    position: relative;
+    top: 40px;
+    left: 100px;
+    background-color: lightgreen;
+}
+h2 {
+    position: relative;
+    top: 50px;
+    left: 10px;
+}
+input {
+    background-color: black;
+    position: relative;
+    left: 170px;
+    top: 4px;
+    color: white;
+}
